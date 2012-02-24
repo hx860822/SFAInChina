@@ -1,0 +1,10 @@
+body{font-family: Verdana,"Trebuchet MS","微软雅黑",Helvetica,sans-serif; }
+td{padding: 5px;}
+.panel{margin:40px 0px; padding: 10px; background-color: #E8E8E8; width:1000px; height:auto;}
+.tblist{text-align: left;}
+.listhead{font-size:14px;}
+.listitem{font-size:12px;}
+.td50{width:50px;}
+.td200{width:200px;}
+.td80{width:80px;}
+.td120{width:120px;}
